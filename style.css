@@ -75,3 +75,10 @@ tr {
 #head-table {
     margin-top:200px
 }
+.carousel-item {
+    height:800px
+}
+.windows {
+    height:800px;
+    background-color: #355070;
+}
