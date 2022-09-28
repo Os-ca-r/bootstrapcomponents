@@ -8,15 +8,7 @@ th {
     box-align:right;
     text-align:center;
 }
-.table {
-    width:100%;
-    margin-top:300px;
-    margin-bottom:0%;
-    border:none;
-    font-weight:bolder;
-    text-align:center;
-    
-}
+
 .link {
     margin-top:70px;
     margin-inline-start:350px;
@@ -99,4 +91,13 @@ nav{
 }
 .milestone-nav {
     background-color: #324c6b;
+}
+footer {
+    width:100%;
+    margin-top:318px;
+    margin-bottom:0%;
+    border:none;
+    font-weight:bolder;
+    text-align:center;
+    background-color: #193961;
 }
