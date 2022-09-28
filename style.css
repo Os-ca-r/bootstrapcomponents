@@ -82,3 +82,21 @@ tr {
     height:800px;
     background-color: #355070;
 }
+img+p, a+p{
+    font-size:20px
+}
+h1 {
+    color:#570b8a
+}
+nav{
+    background-color: #305d94;
+}
+.nav-link {
+    color:rgba(10, 182, 182, 0.808);
+}
+.navbar-brand {
+    font-size:30px
+}
+.milestone-nav {
+    background-color: #324c6b;
+}
