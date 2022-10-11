@@ -101,3 +101,15 @@ footer {
     text-align:center;
     background-color: #193961;
 }
+.information {
+    font-size:20px;
+    text-align:justify;
+}
+p > ul > li > a {
+    color:beige
+}
+.information + p {
+    text-align: center;
+    color: aliceblue;
+    font-size: larger;
+}
