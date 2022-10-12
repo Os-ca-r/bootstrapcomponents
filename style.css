@@ -58,6 +58,9 @@ html {
 p > a {
     color:red
 }
+a > i{
+    color:rgb(56, 187, 115);
+}
 tr {
     color:rgba(10, 182, 182, 0.808)
 }
@@ -104,6 +107,7 @@ footer {
 .information {
     font-size:20px;
     text-align:justify;
+    color:rgb(56, 187, 115)
 }
 p > ul > li > a {
     color:beige
@@ -112,4 +116,7 @@ p > ul > li > a {
     text-align: center;
     color: aliceblue;
     font-size: larger;
+}
+i {
+    font-size: 25px;
 }
